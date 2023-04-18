@@ -1,10 +1,10 @@
 [
   {
-      "id": 1,
-      "url": "/cat1.jpg",
-      "title": "Fur",
-      "uploadDate": "2022. 11. 12.",
-      "phName": "Cat lover"
+    "id": 1,
+    "url": "/cat1.jpg",
+    "title": "Fur",
+    "uploadDate": "2022. 11. 12.",
+    "phName": "Cat lover"
   },
   {
     "id": 2,
